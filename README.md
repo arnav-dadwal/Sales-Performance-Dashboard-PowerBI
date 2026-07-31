@@ -50,7 +50,7 @@ The objective of this project was to analyze sales data and present meaningful b
 
 ### Sales Analysis Dashboard
 
-![Sales Analysis Dashboard](Sales_Analysis_ Dashboard.png)
+![Sales Analysis Dashboard](Sales_Analysis_Dashboard.png)
 
 ---
 
